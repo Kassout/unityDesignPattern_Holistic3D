@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.ScriptableObjects.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\__PROJETS\__GITHUB\unityDesignPattern_Holistic3D\ScriptableObjects\.idea\.idea.ScriptableObjects\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

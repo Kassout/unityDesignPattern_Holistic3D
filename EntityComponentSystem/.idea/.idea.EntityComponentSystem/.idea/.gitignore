@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.EntityComponentSystem.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\__PROJETS\__GITHUB\unityDesignPattern_Holistic3D\EntityComponentSystem\.idea\.idea.EntityComponentSystem\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

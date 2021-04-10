@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.ObserverPattern.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\__PROJETS\__GITHUB\unityDesignPattern_Holistic3D\ObserverPattern\.idea\.idea.ObserverPattern\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
